@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=MonteCarlo&family=Oswald:wght@700&family=Quicksand:wght@300&display=swap');
+
+h1{
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.text1{
+    color: grey;
+    font-family: 'Quicksand', sans-serif;
+}
+
+a{
+    color: skyblue;
+    text-decoration: none;
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;   
+}
+
+.italictext{
+    font-size: 20px;
+    font-family: 'MonteCarlo', cursive;
+}
